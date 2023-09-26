@@ -1,15 +1,4 @@
-This project is part of a YouTube tutorial Create CRM ticket system with MERN stack from scratch to deploy to AWS
-Here is the playlist https://youtube.com/playlist?list=PLtPNAX49WUFN8yq2vEuAY6AhM5EJOXQQ0
-
-### Start project
-
-`npm start`
-
-If you need code before adding Redux in the project , clone from before-redux/toolkit
-
-`git clone -b before-redux/toolkit git@github.com:DentedCode/crm-frontend.git`
-
-### Backend API
-
-Backend api for this app is in the following repo:
-`https://github.com/DentedCode/client-api`
+# cloudy-crm-client
+CloudyCRM is an innovative Customer Relationship Management (CRM) application designed to streamline and enhance customer interactions. 
+Built using a stack of cutting-edge technologies including HTML5, CSS3, JavaScript, React, Node.js, Express.js, and MongoDB, CloudyCRM offers scalability and robust functionality. 
+With features such as user authentication, robust user authorization, and efficient database management, CloudyCRM empowers businesses to effectively manage their customer relationships, drive growth, and deliver exceptional service.
